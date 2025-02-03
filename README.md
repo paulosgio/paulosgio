@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paulosgio
+- 🌐 Web Development
+- 🛠️ Reactjs, Typescript, Tailwindcss
+- 📫 paulosergiodosanjossilvafilho@gmail.com
