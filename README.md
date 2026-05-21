@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paulosgio
-- 🌐 Web Development
-- 🛠️ Reactjs, Typescript, Redux
+- 🌐 Fullstack Developer
+- 🛠️ React, Typescript, Node, Mongodb
 - 📫 paulosergiodosanjossilvafilho@gmail.com
