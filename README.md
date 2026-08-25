@@ -7,14 +7,12 @@ Tenho estudado e desenvolvido projetos utilizando **Node.js, TypeScript, Express
 ## 🚀 Sobre mim
 
 - 🔭 Desenvolvendo projetos Full Stack e APIs REST
-- 🧠 Estudando **Arquitetura de Software, POO e Design Patterns**
-- 🏗️ Praticando princípios **SOLID, DRY e KISS**
-- 🐳 Estudando e utilizando **Docker e Docker Compose**
-- 🗄️ Trabalhando com **PostgreSQL, MongoDB e Prisma**
-- 🔐 Implementando autenticação com **JWT, bcrypt e refresh tokens**
-- ⚡ Estudando comunicação assíncrona e mensageria com **RabbitMQ**
+- 🐳 **Docker e Docker Compose**
+- 🗄️ **PostgreSQL, MongoDB e Prisma**
+- 🔐 autenticação com **JWT, bcrypt e refresh tokens**
+- ⚡ comunicação assíncrona e mensageria com **RabbitMQ**
 - 🤖 Interessado em **AI Engineering e aplicações com LLMs**
-- 📚 Praticando **Algoritmos e Estruturas de Dados**
+- 📚 **Algoritmos e Estruturas de Dados**
 
 ## 🛠️ Tecnologias
 
