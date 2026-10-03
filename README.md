@@ -40,28 +40,6 @@ Tenho estudado e desenvolvido projetos utilizando **Node.js, TypeScript, Express
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🧠 Conceitos
-
-Tenho estudado e aplicado conceitos como:
-
-- Programação Orientada a Objetos (POO)
-- SOLID
-- Design Patterns
-- Arquitetura de Software
-- Arquitetura em camadas
-- Repository Pattern
-- Separação de responsabilidades
-- Dependency Inversion
-- APIs REST
-- Autenticação e autorização
-- JWT e Refresh Tokens
-- Hash de senhas
-- Relacionamentos SQL
-- Migrations
-- Comunicação assíncrona
-- Filas e mensageria
-- Containerização
-- Algoritmos e estruturas de dados
 
 ## 📌 Projetos
 
